@@ -21,9 +21,8 @@ Antes de começar, certifique-se de ter as seguintes ferramentas e recursos inst
 
 ## Contate-me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Letícia_Rose-FF82AB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/letíciarose/)](https://www.linkedin.com/in/letíciarose/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Letícia_Rose-FF82AB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiarose/)](https://www.linkedin.com/in/leticiarose/) 
 [![Gmail Badge](https://img.shields.io/badge/-leticia.rosedesanatana@gmail.com-FF82AB?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leticia.rosedesanatana@gmail.com)](mailto:leticia.rosedesanatana@gmail.com)
 
 
-### Feito com ❤️ por Letícia Rose 👉 [Get in touch! ](https://www.linkedin.com/in/let%C3%ADciarose/)
-
+### Feito com ❤️ por Letícia Rose 👉 [Get in touch! ](https://www.linkedin.com/in/leticiarose/)
